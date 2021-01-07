@@ -1,1 +1,3 @@
-# Multi-Thread-Search-Application
+### Focus:
+Coordination of Multiple Threads (Without Data Sharing).
+
